@@ -1,0 +1,17 @@
+
+Name of Quantlet: SPL_HousePriceRegression_Exploratory_Data_Analysis
+
+Published in: 'Statistical programming languages - Student Project on ''House Prices: Advanced Regression Techniques'' '
+
+Description: 'Reads in train data from csv-file and does some exploratory data analysis on the distribution of the target variable and the available categoric and numeric input variables.'
+
+Keywords: Exploratory Data Analysis, QQ-Plot, Histogram, density, column types, NA
+
+Author: Christian Koopmann, Felix Skarke, Enno Tammena
+
+See also: 
+
+Submitted:  18.08.2017
+
+Input: 'train.csv'
+Output: PriceHist.png, LogPriceHist.png, StdPriceHist.png, StdPriceQQ.png, categoric.overview.tex, numeric.overview.tex

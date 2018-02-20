@@ -1,0 +1,16 @@
+
+Name of Quantlet: SPL_HousePriceRegression_Regression_Models
+
+Published in: 'Statistical programming languages - Student Project on ''House Prices: Advanced Regression Techniques'' '
+
+Description: 'Performs four regression based methods to select appropriate variables in a machine lerning approach: Lasso regression, Ridge regression, stepwise backward selection and stepwise forward selection. Several graphs are produced: for Lasso, a plot of the crossvalidation procedure for the optimal choice of the hyperparameter lambda based on the mean squared error is plotted, as well as a trace plot. For the stepwise forward selection a graph displays AIC versus number of variables for the different models. A table that compares all models is exported in LaTex format. The fitted models are exported in RData format for further analysis.'
+
+Keywords: Lasso, Ridge, regression, mean squared error, MSE, trace plot, AIC, crossvalidation
+
+Author: Christian Koopmann, Felix Skarke, Enno Tammena
+
+Submitted:  18.08.2017
+
+Input: 'train_preprocessed.csv'
+
+Output: step.png,  lasso.png, lasso_lambda.png, reg_table.tex, regression_models_fit.RData

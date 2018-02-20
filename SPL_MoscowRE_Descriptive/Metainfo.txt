@@ -1,0 +1,12 @@
+Name of Quantlet:  SPL_MoscowRE_Descriptive.R
+
+Published in:  'Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+MOSCOW'' '
+
+Description:       'Descriptive statistical analysis of Moscow housing data provided by Sberbank'
+
+Keywords:          correlation, numerical, categorical, descriptive
+
+Author:            Alisa Kolesnikova
+
+Submitted:         Fr, Aug 18 2017

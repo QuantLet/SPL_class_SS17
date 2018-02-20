@@ -1,0 +1,17 @@
+﻿
+Name of Quantlet: SPL_HousePriceRegression_Model_Comparison
+
+Published in: 'Statistical programming languages - Student Project on ''House Prices: Advanced Regression Techniques'' '
+
+Description: 'Reads in test and train data from csv-file and calculates out-of-sample performance measures for the trained models. Creates plots of real against predicted data, showing performance visually.'
+
+Keywords: Model comparison, Mean Squared Error, overfitting, performance, prediction
+
+Author: Christian Koopmann, Felix Skarke, Enno Tammena
+
+See also: 
+
+Submitted:  10.06.2017
+
+Input: train_preprocessed.csv, test_preprocessed.csv, gbm.RData, rf.RData, regression_models_fit.RData 
+Output: modelcomparison.tex, bwd_fit.png, fwd_fit.png, lasso_fit.png, ridge_fit.png, gbmtuned.png, rftuned.png

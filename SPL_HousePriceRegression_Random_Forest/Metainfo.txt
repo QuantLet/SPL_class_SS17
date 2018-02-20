@@ -1,0 +1,17 @@
+
+Name of Quantlet: SPL_HousePriceRegression_Random_Forest
+
+Published in: 'Statistical programming languages - Student Project on ''House Prices: Advanced Regression Techniques'' ''
+
+Description: 'Reads in preprocessed train data and, trains and tunes RF and GBM Models and saves both the models as well as tuning results in graphical and tabular form'
+
+Keywords: Random Forest, Gradient Boosting Machine, Tuning, caret, cross validation
+
+Author: Christian Koopmann, Felix Skarke, Enno Tammena
+
+See also: 
+
+Submitted:  18.08.2017
+
+Input: 'train_preprocessed.csv'
+Output: gbm.RData, gbmresults.tex, gbm_rmse.png, gbm_rsq.png, rf.RData, rfresults.tex, rf_imp.png, rf_rmse.png, rf_rsq.png

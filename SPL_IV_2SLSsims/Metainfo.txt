@@ -1,0 +1,6 @@
+Name of Quantlet: SPL_IV_2SLSsims
+Published in: 'Statistical Programming Languages - Student Project on ''Instrumental variable estimation'' '
+Description: Illustrates the 2SLS estimator by simulating the effect of endogeneity, consistency, and the effect of instrument strength
+Keywords: instrumental variables, two-stage least squares, estimator, consistency, endogeneity, multivariate, multivariate normal
+See also: SPL_IV_2SLSempirical.R
+Author: Janek Berger
