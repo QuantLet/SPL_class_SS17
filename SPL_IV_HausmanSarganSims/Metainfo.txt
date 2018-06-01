@@ -1,4 +1,4 @@
-Name of Quantlet: SPL_IV_HausmanSarganSims.R
+Name of Quantlet: SPL_IV_HausmanSarganSims
 Published in: 'Statistical Programming Languages - Student Project on ''Instrumental variable estimation'' '
 Description: Illustrates various tests applied in instrument variable estimation by simulation
 Keywords: instrumental variables, Hausman test, Sargan test, estimator, consistency, endogeneity, simulation

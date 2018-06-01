@@ -1,4 +1,4 @@
-Name of Quantlet:  SPL_MoscowRE_StatAnalysis.R
+Name of Quantlet:  SPL_MoscowRE_StatAnalysis
 
 Published in:  'Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
 MOSCOW'' '

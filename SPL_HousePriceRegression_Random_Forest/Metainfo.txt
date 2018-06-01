@@ -1,7 +1,7 @@
 
 Name of Quantlet: SPL_HousePriceRegression_Random_Forest
 
-Published in: 'Statistical programming languages - Student Project on ''House Prices: Advanced Regression Techniques'' ''
+Published in: "Statistical programming languages - Student Project on 'House Prices: Advanced Regression Techniques' "
 
 Description: 'Reads in preprocessed train data and, trains and tunes RF and GBM Models and saves both the models as well as tuning results in graphical and tabular form'
 
