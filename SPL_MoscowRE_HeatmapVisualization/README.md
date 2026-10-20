@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_HeatmapVisualization
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: This quantlet visualizes the distribution of different prices per square meter for the districts of Moscow.
 
