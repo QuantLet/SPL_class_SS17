@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_VarSelection
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: Performs basic variable selction methods (LASSO, rf variable importance plot) on housing data provided by Sberbank
 
