@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_Models
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: Applying eXtreme Gradient Boosting to three different sets of variables, comparing performances on the validation set, and using Partial Least Squares Regression as a benchmark
 
