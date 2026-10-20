@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_Descriptive
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: Descriptive statistical analysis of Moscow housing data provided by Sberbank
 
