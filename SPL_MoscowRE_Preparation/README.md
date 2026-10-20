@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_Preparation
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: Demonstrates the cleaning of the housing dataset provided by Sberbank
 
