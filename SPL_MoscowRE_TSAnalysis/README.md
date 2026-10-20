@@ -7,9 +7,9 @@
 ```
 Name of Quantlet: SPL_MoscowRE_TSAnalysis
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
-Description: Predicting periods of decline of Moscows housing market through relevant Google Trends, such as the search keyword real estate market or
+Description: Predicting periods of decline of Moscows housing market through relevant Google Trends, such as the search keyword real estate market or or the complete category real estate
 
 Keywords: google, trends, forecasting, time series, housing market
 
