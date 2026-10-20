@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SPL_MoscowRE_StatAnalysis
 
-Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF
+Published in: Statistical programming languages - Student Project on ''HOUSING MARKET EVALUATION OF MOSCOW''
 
 Description: Conducts a statistical analysis, heteroskedasticity and normality checks on housing data provided by Sberbank
 
